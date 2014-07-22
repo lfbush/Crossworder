@@ -1,5 +1,4 @@
 import json
-import yaml
 import string
 from freqs import LetterFrequency
 
