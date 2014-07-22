@@ -6,7 +6,7 @@ class LetterFrequency:
 
     def increment(self, letter):
         if letter in self.frequencies:
-            self.frequencies[letter.toLowercase()] += 1
+            self.frequencies[letter.lower()] += 1
 
     def getCount(self, letter):
         return self.frequencies[letter]
