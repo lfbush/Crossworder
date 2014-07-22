@@ -1,2 +1,6 @@
-
 *.pyc
+howto.txt
+
+.idea/workspace.xml
+
+.idea/Crossworder.iml
