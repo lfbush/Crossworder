@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, December 28, 2008 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Dec 28, 2008 GOING AROUND IN CIRCLES</Title>
+    <Author>Patrick Berry</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>12/28/2008</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>RON.SAW.ORBITS..DOWEL</Row>
+      <Row>INARUSH.BARNETT.IRENE</Row>
+      <Row>PULASKI.EVILEYE.ORING</Row>
+      <Row>ASAGIFT.SEDAN.APR.LUG</Row>
+      <Row>...GEO.BELLY.ISRAELIS</Row>
+      <Row>GATE.RAE..ESPN.EMT...</Row>
+      <Row>ROAD.TREATS.SUNYATSEN</Row>
+      <Row>ARK..HATCH.BANE.SUPRA</Row>
+      <Row>STEPHEN.NEGATIVE..YIP</Row>
+      <Row>PASSIM.MESON.SELLECCA</Row>
+      <Row>..ASHORE.SUN.OREIDA..</Row>
+      <Row>TATTOOER.ADORN.VENTED</Row>
+      <Row>EDU..NECKLACE.MANACLE</Row>
+      <Row>MIRED.FURY.KAPUT..HEM</Row>
+      <Row>PANDERSTO.ESPOSO.RENO</Row>
+      <Row>...GSA.ICBM..PER.ERIN</Row>
+      <Row>IMPETIGO.ROAMS.MAT...</Row>
+      <Row>NYU.ILL.JETTA.JUPITUS</Row>
+      <Row>ELTON.OPINION.ASARULE</Row>
+      <Row>POOLE.WILDONE.WIREMEN</Row>
+      <Row>TUNED..PLANET.ACT.SET</Row>
+    </Grid>
+    <Shades>
+      <Shade Row="2" Col="2">gray</Shade>
+      <Shade Row="2" Col="3">gray</Shade>
+      <Shade Row="2" Col="4">gray</Shade>
+      <Shade Row="2" Col="5">gray</Shade>
+      <Shade Row="2" Col="6">gray</Shade>
+      <Shade Row="2" Col="7">gray</Shade>
+      <Shade Row="2" Col="9">gray</Shade>
+      <Shade Row="2" Col="10">gray</Shade>
+      <Shade Row="2" Col="11">gray</Shade>
+      <Shade Row="2" Col="12">gray</Shade>
+      <Shade Row="2" Col="13">gray</Shade>
+      <Shade Row="2" Col="14">gray</Shade>
+      <Shade Row="2" Col="15">gray</Shade>
+      <Shade Row="2" Col="17">gray</Shade>
+      <Shade Row="2" Col="18">gray</Shade>
+      <Shade Row="2" Col="19">gray</Shade>
+      <Shade Row="2" Col="20">gray</Shade>
+      <Shade Row="3" Col="2">gray</Shade>
+      <Shade Row="3" Col="20">gray</Shade>
+      <Shade Row="4" Col="2">gray</Shade>
+      <Shade Row="4" Col="4">gray</Shade>
+      <Shade Row="4" Col="5">gray</Shade>
+      <Shade Row="4" Col="6">gray</Shade>
+      <Shade Row="4" Col="7">gray</Shade>
+      <Shade Row="4" Col="9">gray</Shade>
+      <Shade Row="4" Col="10">gray</Shade>
+      <Shade Row="4" Col="11">gray</Shade>
+      <Shade Row="4" Col="12">gray</Shade>
+      <Shade Row="4" Col="13">gray</Shade>
+      <Shade Row="4" Col="15">gray</Shade>
+      <Shade Row="4" Col="16">gray</Shade>
+      <Shade Row="4" Col="17">gray</Shade>
+      <Shade Row="4" Col="20">gray</Shade>
+      <Shade Row="5" Col="4">gray</Shade>
+      <Shade Row="5" Col="18">gray</Shade>
+      <Shade Row="5" Col="20">gray</Shade>
+      <Shade Row="6" Col="2">gray</Shade>
+      <Shade Row="6" Col="4">gray</Shade>
+      <Shade Row="6" Col="6">gray</Shade>
+      <Shade Row="6" Col="7">gray</Shade>
+      <Shade Row="6" Col="8">gray</Shade>
+      <Shade Row="6" Col="11">gray</Shade>
+      <Shade Row="6" Col="12">gray</Shade>
+      <Shade Row="6" Col="13">gray</Shade>
+      <Shade Row="6" Col="14">gray</Shade>
+      <Shade Row="6" Col="16">gray</Shade>
+      <Shade Row="6" Col="18">gray</Shade>
+      <Shade Row="7" Col="2">gray</Shade>
+      <Shade Row="7" Col="4">gray</Shade>
+      <Shade Row="7" Col="6">gray</Shade>
+      <Shade Row="7" Col="16">gray</Shade>
+      <Shade Row="7" Col="18">gray</Shade>
+      <Shade Row="7" Col="20">gray</Shade>
+      <Shade Row="8" Col="2">gray</Shade>
+      <Shade Row="8" Col="6">gray</Shade>
+      <Shade Row="8" Col="8">gray</Shade>
+      <Shade Row="8" Col="9">gray</Shade>
+      <Shade Row="8" Col="10">gray</Shade>
+      <Shade Row="8" Col="12">gray</Shade>
+      <Shade Row="8" Col="13">gray</Shade>
+      <Shade Row="8" Col="14">gray</Shade>
+      <Shade Row="8" Col="18">gray</Shade>
+      <Shade Row="8" Col="20">gray</Shade>
+      <Shade Row="9" Col="2">gray</Shade>
+      <Shade Row="9" Col="4">gray</Shade>
+      <Shade Row="9" Col="6">gray</Shade>
+      <Shade Row="9" Col="14">gray</Shade>
+      <Shade Row="9" Col="16">gray</Shade>
+      <Shade Row="9" Col="20">gray</Shade>
+      <Shade Row="10" Col="2">gray</Shade>
+      <Shade Row="10" Col="4">gray</Shade>
+      <Shade Row="10" Col="6">gray</Shade>
+      <Shade Row="10" Col="8">gray</Shade>
+      <Shade Row="10" Col="14">gray</Shade>
+      <Shade Row="10" Col="16">gray</Shade>
+      <Shade Row="10" Col="18">gray</Shade>
+      <Shade Row="10" Col="20">gray</Shade>
+      <Shade Row="11" Col="4">gray</Shade>
+      <Shade Row="11" Col="6">gray</Shade>
+      <Shade Row="11" Col="8">gray</Shade>
+      <Shade Row="11" Col="14">gray</Shade>
+      <Shade Row="11" Col="16">gray</Shade>
+      <Shade Row="11" Col="18">gray</Shade>
+      <Shade Row="12" Col="2">gray</Shade>
+      <Shade Row="12" Col="4">gray</Shade>
+      <Shade Row="12" Col="6">gray</Shade>
+      <Shade Row="12" Col="8">gray</Shade>
+      <Shade Row="12" Col="14">gray</Shade>
+      <Shade Row="12" Col="16">gray</Shade>
+      <Shade Row="12" Col="18">gray</Shade>
+      <Shade Row="12" Col="20">gray</Shade>
+      <Shade Row="13" Col="2">gray</Shade>
+      <Shade Row="13" Col="6">gray</Shade>
+      <Shade Row="13" Col="8">gray</Shade>
+      <Shade Row="13" Col="16">gray</Shade>
+      <Shade Row="13" Col="18">gray</Shade>
+      <Shade Row="13" Col="20">gray</Shade>
+      <Shade Row="14" Col="2">gray</Shade>
+      <Shade Row="14" Col="4">gray</Shade>
+      <Shade Row="14" Col="8">gray</Shade>
+      <Shade Row="14" Col="9">gray</Shade>
+      <Shade Row="14" Col="10">gray</Shade>
+      <Shade Row="14" Col="12">gray</Shade>
+      <Shade Row="14" Col="13">gray</Shade>
+      <Shade Row="14" Col="14">gray</Shade>
+      <Shade Row="14" Col="16">gray</Shade>
+      <Shade Row="14" Col="20">gray</Shade>
+      <Shade Row="15" Col="2">gray</Shade>
+      <Shade Row="15" Col="4">gray</Shade>
+      <Shade Row="15" Col="6">gray</Shade>
+      <Shade Row="15" Col="16">gray</Shade>
+      <Shade Row="15" Col="18">gray</Shade>
+      <Shade Row="15" Col="20">gray</Shade>
+      <Shade Row="16" Col="4">gray</Shade>
+      <Shade Row="16" Col="6">gray</Shade>
+      <Shade Row="16" Col="8">gray</Shade>
+      <Shade Row="16" Col="9">gray</Shade>
+      <Shade Row="16" Col="10">gray</Shade>
+      <Shade Row="16" Col="11">gray</Shade>
+      <Shade Row="16" Col="14">gray</Shade>
+      <Shade Row="16" Col="15">gray</Shade>
+      <Shade Row="16" Col="16">gray</Shade>
+      <Shade Row="16" Col="18">gray</Shade>
+      <Shade Row="16" Col="20">gray</Shade>
+      <Shade Row="17" Col="2">gray</Shade>
+      <Shade Row="17" Col="4">gray</Shade>
+      <Shade Row="17" Col="18">gray</Shade>
+      <Shade Row="18" Col="2">gray</Shade>
+      <Shade Row="18" Col="5">gray</Shade>
+      <Shade Row="18" Col="6">gray</Shade>
+      <Shade Row="18" Col="7">gray</Shade>
+      <Shade Row="18" Col="9">gray</Shade>
+      <Shade Row="18" Col="10">gray</Shade>
+      <Shade Row="18" Col="11">gray</Shade>
+      <Shade Row="18" Col="12">gray</Shade>
+      <Shade Row="18" Col="13">gray</Shade>
+      <Shade Row="18" Col="15">gray</Shade>
+      <Shade Row="18" Col="16">gray</Shade>
+      <Shade Row="18" Col="17">gray</Shade>
+      <Shade Row="18" Col="18">gray</Shade>
+      <Shade Row="18" Col="20">gray</Shade>
+      <Shade Row="19" Col="2">gray</Shade>
+      <Shade Row="19" Col="20">gray</Shade>
+      <Shade Row="20" Col="2">gray</Shade>
+      <Shade Row="20" Col="3">gray</Shade>
+      <Shade Row="20" Col="4">gray</Shade>
+      <Shade Row="20" Col="5">gray</Shade>
+      <Shade Row="20" Col="7">gray</Shade>
+      <Shade Row="20" Col="8">gray</Shade>
+      <Shade Row="20" Col="9">gray</Shade>
+      <Shade Row="20" Col="10">gray</Shade>
+      <Shade Row="20" Col="11">gray</Shade>
+      <Shade Row="20" Col="12">gray</Shade>
+      <Shade Row="20" Col="13">gray</Shade>
+      <Shade Row="20" Col="15">gray</Shade>
+      <Shade Row="20" Col="16">gray</Shade>
+      <Shade Row="20" Col="17">gray</Shade>
+      <Shade Row="20" Col="18">gray</Shade>
+      <Shade Row="20" Col="19">gray</Shade>
+      <Shade Row="20" Col="20">gray</Shade>
+    </Shades>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="RON">Harry's pal at Hogwarts</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="SAW">Hit 2004 film with many sequels</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Across" Ans="ORBITS">What this puzzle's eight concentric rings (uncircled and circled) represent</Clue>
+      <Clue Row="1" Col="17" Num="13" Dir="Across" Ans="DOWEL">Wooden peg</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Across" Ans="INARUSH">Pressed for time</Clue>
+      <Clue Row="2" Col="9" Num="20" Dir="Across" Ans="BARNETT">1968 N.B.A. All-Star Dick</Clue>
+      <Clue Row="2" Col="17" Num="22" Dir="Across" Ans="IRENE">___ Adler of Conan Doyle's "A Scandal in Bohemia"</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="PULASKI">Georgia's Fort ___, site of an 1862 surrender</Clue>
+      <Clue Row="3" Col="9" Num="24" Dir="Across" Ans="EVILEYE">Malevolent look</Clue>
+      <Clue Row="3" Col="17" Num="25" Dir="Across" Ans="ORING">Rubber gasket</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="ASAGIFT">Gratis</Clue>
+      <Clue Row="4" Col="9" Num="27" Dir="Across" Ans="SEDAN">Lincoln Town Car, for one</Clue>
+      <Clue Row="4" Col="15" Num="28" Dir="Across" Ans="APR">Patriots' Day mo.</Clue>
+      <Clue Row="4" Col="19" Num="30" Dir="Across" Ans="LUG">Big ox</Clue>
+      <Clue Row="5" Col="4" Num="31" Dir="Across" Ans="GEO">Prefix with political</Clue>
+      <Clue Row="5" Col="8" Num="32" Dir="Across" Ans="BELLY">___ dance</Clue>
+      <Clue Row="5" Col="14" Num="33" Dir="Across" Ans="ISRAELIS">Six-Day War combatants</Clue>
+      <Clue Row="6" Col="1" Num="35" Dir="Across" Ans="GATE">Entrance</Clue>
+      <Clue Row="6" Col="6" Num="38" Dir="Across" Ans="RAE">Actress ___ Dawn Chong</Clue>
+      <Clue Row="6" Col="11" Num="40" Dir="Across" Ans="ESPN">"Nascar Now" channel</Clue>
+      <Clue Row="6" Col="16" Num="42" Dir="Across" Ans="EMT">Medevac worker</Clue>
+      <Clue Row="7" Col="1" Num="43" Dir="Across" Ans="ROAD">Way to go</Clue>
+      <Clue Row="7" Col="6" Num="44" Dir="Across" Ans="TREATS">Dog biscuits and such</Clue>
+      <Clue Row="7" Col="13" Num="47" Dir="Across" Ans="SUNYATSEN">Formulator of the Three Principles of the People</Clue>
+      <Clue Row="8" Col="1" Num="52" Dir="Across" Ans="ARK">Gopher-wood construction</Clue>
+      <Clue Row="8" Col="6" Num="53" Dir="Across" Ans="HATCH">Submarine egress</Clue>
+      <Clue Row="8" Col="12" Num="54" Dir="Across" Ans="BANE">Ruination</Clue>
+      <Clue Row="8" Col="17" Num="55" Dir="Across" Ans="SUPRA">Infra's opposite</Clue>
+      <Clue Row="9" Col="1" Num="56" Dir="Across" Ans="STEPHEN">King famous for frightening people</Clue>
+      <Clue Row="9" Col="9" Num="59" Dir="Across" Ans="NEGATIVE">Like some campaign ads</Clue>
+      <Clue Row="9" Col="19" Num="62" Dir="Across" Ans="YIP">Pomeranian's bark</Clue>
+      <Clue Row="10" Col="1" Num="63" Dir="Across" Ans="PASSIM">Sic ___ (bibliographical term)</Clue>
+      <Clue Row="10" Col="8" Num="64" Dir="Across" Ans="MESON">Elementary particle</Clue>
+      <Clue Row="10" Col="14" Num="65" Dir="Across" Ans="SELLECCA">Actress/model Connie</Clue>
+      <Clue Row="11" Col="3" Num="68" Dir="Across" Ans="ASHORE">On land</Clue>
+      <Clue Row="11" Col="10" Num="70" Dir="Across" Ans="SUN">Appropriate center for this puzzle</Clue>
+      <Clue Row="11" Col="14" Num="71" Dir="Across" Ans="OREIDA">Frozen food company</Clue>
+      <Clue Row="12" Col="1" Num="72" Dir="Across" Ans="TATTOOER">Exterior decorator?</Clue>
+      <Clue Row="12" Col="10" Num="74" Dir="Across" Ans="ADORN">Beautify</Clue>
+      <Clue Row="12" Col="16" Num="76" Dir="Across" Ans="VENTED">Let one's anger show</Clue>
+      <Clue Row="13" Col="1" Num="79" Dir="Across" Ans="EDU">E-mail address ender</Clue>
+      <Clue Row="13" Col="6" Num="80" Dir="Across" Ans="NECKLACE">Treasure sought in "Titanic"</Clue>
+      <Clue Row="13" Col="15" Num="82" Dir="Across" Ans="MANACLE">Heavy metal band?</Clue>
+      <Clue Row="14" Col="1" Num="83" Dir="Across" Ans="MIRED">Stuck in the mud</Clue>
+      <Clue Row="14" Col="7" Num="86" Dir="Across" Ans="FURY">Storm</Clue>
+      <Clue Row="14" Col="12" Num="87" Dir="Across" Ans="KAPUT">No longer working</Clue>
+      <Clue Row="14" Col="19" Num="89" Dir="Across" Ans="HEM">Cuff feature</Clue>
+      <Clue Row="15" Col="1" Num="90" Dir="Across" Ans="PANDERSTO">Satisfies, as baser instincts</Clue>
+      <Clue Row="15" Col="11" Num="92" Dir="Across" Ans="ESPOSO">Husband, in Hidalgo</Clue>
+      <Clue Row="15" Col="18" Num="93" Dir="Across" Ans="RENO">"___ 911!" (comedy series)</Clue>
+      <Clue Row="16" Col="4" Num="94" Dir="Across" Ans="GSA">Fed. purchasing org.</Clue>
+      <Clue Row="16" Col="8" Num="95" Dir="Across" Ans="ICBM">Long-range weapon, briefly</Clue>
+      <Clue Row="16" Col="14" Num="97" Dir="Across" Ans="PER">According to</Clue>
+      <Clue Row="16" Col="18" Num="98" Dir="Across" Ans="ERIN">The Auld Sod</Clue>
+      <Clue Row="17" Col="1" Num="99" Dir="Across" Ans="IMPETIGO">Childhood skin affliction</Clue>
+      <Clue Row="17" Col="10" Num="103" Dir="Across" Ans="ROAMS">Goes around</Clue>
+      <Clue Row="17" Col="16" Num="106" Dir="Across" Ans="MAT">Where a pin may be made</Clue>
+      <Clue Row="18" Col="1" Num="108" Dir="Across" Ans="NYU">Greenwich Village campus, for short</Clue>
+      <Clue Row="18" Col="5" Num="109" Dir="Across" Ans="ILL">Poorly</Clue>
+      <Clue Row="18" Col="9" Num="110" Dir="Across" Ans="JETTA">Volkswagen model</Clue>
+      <Clue Row="18" Col="15" Num="111" Dir="Across" Ans="JUPITUS">BBC panel show regular Phill</Clue>
+      <Clue Row="19" Col="1" Num="115" Dir="Across" Ans="ELTON">Brand of basketball</Clue>
+      <Clue Row="19" Col="7" Num="117" Dir="Across" Ans="OPINION">Something it's not always wise to share</Clue>
+      <Clue Row="19" Col="15" Num="119" Dir="Across" Ans="ASARULE">Generally</Clue>
+      <Clue Row="20" Col="1" Num="120" Dir="Across" Ans="POOLE">Grace ___ ("Jane Eyre" character)</Clue>
+      <Clue Row="20" Col="7" Num="121" Dir="Across" Ans="WILDONE">1960 Bobby Rydell hit</Clue>
+      <Clue Row="20" Col="15" Num="122" Dir="Across" Ans="WIREMEN">Electricians</Clue>
+      <Clue Row="21" Col="1" Num="123" Dir="Across" Ans="TUNED">Ready to play, you might say</Clue>
+      <Clue Row="21" Col="8" Num="124" Dir="Across" Ans="PLANET">One of these can be found reading counterclockwise somewhere in each concentric ring</Clue>
+      <Clue Row="21" Col="15" Num="125" Dir="Across" Ans="ACT">Behave</Clue>
+      <Clue Row="21" Col="19" Num="126" Dir="Across" Ans="SET">Go down</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="RIPA">Philbin's "Live" co-host</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ONUS">Responsibility</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="NALA">Simba's mate in "The Lion King"</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="SUSIE">The Everly Brothers' "Wake Up Little ___"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ASKFORTHEMOON">Make impossible demands</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="WHIT">Little bit</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="OBESE">Scale-busting</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="RAVEL">"Gaspard de la Nuit" composer</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="BRIDLES">Tack room items</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="INLAYS">Veneer patterns</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="TEEN">First-time driver, often</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="STY">Porker's pen</Clue>
+      <Clue Row="1" Col="17" Num="13" Dir="Down" Ans="DIORAMAS">Museum displays</Clue>
+      <Clue Row="1" Col="18" Num="14" Dir="Down" Ans="ORR">Yossarian's tentmate in "Catch-22"</Clue>
+      <Clue Row="1" Col="19" Num="15" Dir="Down" Ans="WEILL">"Mack the Knife" songwriter</Clue>
+      <Clue Row="1" Col="20" Num="16" Dir="Down" Ans="ENNUI">Lassitude</Clue>
+      <Clue Row="1" Col="21" Num="17" Dir="Down" Ans="LEGGS">Pantyhose brand</Clue>
+      <Clue Row="2" Col="4" Num="19" Dir="Down" Ans="RAGGED">Worn out</Clue>
+      <Clue Row="2" Col="15" Num="21" Dir="Down" Ans="TEAS">Bigelow beverages</Clue>
+      <Clue Row="4" Col="16" Num="29" Dir="Down" Ans="PREY">Rodent, to a raptor</Clue>
+      <Clue Row="5" Col="8" Num="32" Dir="Down" Ans="BEET">Red food dye source</Clue>
+      <Clue Row="5" Col="14" Num="33" Dir="Down" Ans="INUNISON">All together</Clue>
+      <Clue Row="5" Col="18" Num="34" Dir="Down" Ans="ETTU">Roman rebuke</Clue>
+      <Clue Row="6" Col="1" Num="35" Dir="Down" Ans="GRASP">Comprehend</Clue>
+      <Clue Row="6" Col="2" Num="36" Dir="Down" Ans="AORTA">Trunk in your trunk</Clue>
+      <Clue Row="6" Col="3" Num="37" Dir="Down" Ans="TAKESATURN">Plays</Clue>
+      <Clue Row="6" Col="7" Num="39" Dir="Down" Ans="ARAN">Ireland's ___ Islands</Clue>
+      <Clue Row="6" Col="13" Num="41" Dir="Down" Ans="PSAT">Exam for H.S. jrs.</Clue>
+      <Clue Row="7" Col="9" Num="45" Dir="Down" Ans="ACNE">Retin-A treats it</Clue>
+      <Clue Row="7" Col="10" Num="46" Dir="Down" Ans="THESSALY">Region near Mount Olympus</Clue>
+      <Clue Row="7" Col="15" Num="48" Dir="Down" Ans="NEVER">"In a pig's eye!"</Clue>
+      <Clue Row="7" Col="19" Num="49" Dir="Down" Ans="SPYCATCHER">Controversial 1987 exposé by ex-MI5 agent Peter Wright</Clue>
+      <Clue Row="7" Col="20" Num="50" Dir="Down" Ans="ERIC">Cartman's first name on "South Park"</Clue>
+      <Clue Row="7" Col="21" Num="51" Dir="Down" Ans="NAPA">Bay Area county</Clue>
+      <Clue Row="8" Col="12" Num="54" Dir="Down" Ans="BANNOCKS">Oatcakes popular in Scotland</Clue>
+      <Clue Row="9" Col="4" Num="57" Dir="Down" Ans="PSST">Discreet attention-getter</Clue>
+      <Clue Row="9" Col="5" Num="58" Dir="Down" Ans="HIHO">Exclamation in "The Farmer in the Dell"</Clue>
+      <Clue Row="9" Col="11" Num="60" Dir="Down" Ans="GOUDA">Semisoft cheese from Holland</Clue>
+      <Clue Row="9" Col="16" Num="61" Dir="Down" Ans="ELEVATORMUSIC">Tunes that might make you want to get out on the floor?</Clue>
+      <Clue Row="10" Col="8" Num="64" Dir="Down" Ans="MERCUTIO">Romeo's reckless friend</Clue>
+      <Clue Row="10" Col="17" Num="66" Dir="Down" Ans="LIEN">Legal claim on property</Clue>
+      <Clue Row="10" Col="18" Num="67" Dir="Down" Ans="EDNA">Writer Ferber</Clue>
+      <Clue Row="11" Col="7" Num="69" Dir="Down" Ans="REEFS">Hull scrapers</Clue>
+      <Clue Row="12" Col="1" Num="72" Dir="Down" Ans="TEMP">Desk-borrowing worker</Clue>
+      <Clue Row="12" Col="2" Num="73" Dir="Down" Ans="ADIA">Top 10 hit for Sarah McLachlan</Clue>
+      <Clue Row="12" Col="13" Num="75" Dir="Down" Ans="REAP">Harvest</Clue>
+      <Clue Row="12" Col="20" Num="77" Dir="Down" Ans="ELENI">Nicholas Gage memoir</Clue>
+      <Clue Row="12" Col="21" Num="78" Dir="Down" Ans="DEMON">Possessor?</Clue>
+      <Clue Row="13" Col="9" Num="81" Dir="Down" Ans="KROC">Ray a k a the Hamburger King</Clue>
+      <Clue Row="13" Col="15" Num="82" Dir="Down" Ans="MUSE">Poet's inspiration</Clue>
+      <Clue Row="14" Col="4" Num="84" Dir="Down" Ans="EDGE">Sharpness</Clue>
+      <Clue Row="14" Col="5" Num="85" Dir="Down" Ans="DESTINED">Preordained</Clue>
+      <Clue Row="14" Col="14" Num="88" Dir="Down" Ans="POPS">Bursts open</Clue>
+      <Clue Row="15" Col="6" Num="91" Dir="Down" Ans="RAIL">Pedestrian safety feature</Clue>
+      <Clue Row="15" Col="11" Num="92" Dir="Down" Ans="EMOTION">What Mr. Spock suppressed</Clue>
+      <Clue Row="15" Col="18" Num="93" Dir="Down" Ans="RETIRE">Leave one's post, possibly</Clue>
+      <Clue Row="16" Col="10" Num="96" Dir="Down" Ans="BRENDA">Lee with the 1960 #1 hit "I'm Sorry"</Clue>
+      <Clue Row="17" Col="1" Num="99" Dir="Down" Ans="INEPT">Bungling</Clue>
+      <Clue Row="17" Col="2" Num="100" Dir="Down" Ans="MYLOU">"Skip to ___"</Clue>
+      <Clue Row="17" Col="3" Num="101" Dir="Down" Ans="PUTON">Hoax</Clue>
+      <Clue Row="17" Col="7" Num="102" Dir="Down" Ans="GLOW">___ stick (trick-or-treater's accessory)</Clue>
+      <Clue Row="17" Col="12" Num="104" Dir="Down" Ans="ATONE">Make up (for)</Clue>
+      <Clue Row="17" Col="13" Num="105" Dir="Down" Ans="MANET">Painter of a Zola portrait</Clue>
+      <Clue Row="17" Col="17" Num="107" Dir="Down" Ans="APART">In different places</Clue>
+      <Clue Row="18" Col="9" Num="110" Dir="Down" Ans="JILL">Jack's partner in rhyme</Clue>
+      <Clue Row="18" Col="15" Num="111" Dir="Down" Ans="JAWA">Cloak-wearing "Star Wars" race</Clue>
+      <Clue Row="18" Col="19" Num="112" Dir="Down" Ans="TUMS">Rolaids rival</Clue>
+      <Clue Row="18" Col="20" Num="113" Dir="Down" Ans="ULEE">Big-screen beekeeper</Clue>
+      <Clue Row="18" Col="21" Num="114" Dir="Down" Ans="SENT">Propelled</Clue>
+      <Clue Row="19" Col="4" Num="116" Dir="Down" Ans="OLE">___ Miss</Clue>
+      <Clue Row="19" Col="8" Num="118" Dir="Down" Ans="PIP">Domino dot</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Shaded squares outline planetary orbits in the <a href="special/nyt081228grid.jpg">print version</a> of this puzzle. (Across Lite used circles since it can't do shading.) Each of the eight rings hides a planet name in order of mean distance from the Sun. See the <a href="http://wordplay.blogs.nytimes.com/2008/12/27/circles/" target="_blank">Wordplay blog</a> for information about a couple of hidden Easter eggs as well.]]></JimNotes>
+  </Puzzle>
+</Puzzles>

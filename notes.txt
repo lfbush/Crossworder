@@ -1,0 +1,5 @@
+Sample URL:
+http://www.xwordinfo.com/xml/Puzzles/2008/Dec28-2008.xml
+http://www.xwordinfo.com/xml/PuzMonth/2009/Oct-2009.xml
+
+http://www.xwordinfo.com/JSON/Data.aspx?date=9/09/2008
